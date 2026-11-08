@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://achamer17-eng.github.io/ZYNTRA.com/sitemap.xml
