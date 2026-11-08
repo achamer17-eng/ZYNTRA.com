@@ -1,6 +1,6 @@
-# LUNQIVORA
+# PandaTube
 
-Responsive, multilingual concept landing page for LUNQIVORA.
+Responsive, multilingual concept landing page for PandaTube.
 
 ## Enable GitHub Pages
 1. Open **Settings** in this repository.
@@ -10,6 +10,6 @@ Responsive, multilingual concept landing page for LUNQIVORA.
 5. Wait for GitHub Pages to publish the site and show its URL.
 
 ## Current scope
-This is a front-end concept landing page only. Accounts, secure authentication, video uploads/transcoding/streaming, game creation and hosting, marketplace payments, creator rewards ledger, moderation, account recovery, backups and production monitoring are not implemented. LUNQIVORA Coins are a planned virtual feature and have no cash value in this preview.
+This is a front-end concept landing page only. Accounts, secure authentication, video uploads/transcoding/streaming, game creation and hosting, marketplace payments, creator rewards ledger, moderation, account recovery, backups and production monitoring are not implemented. PandaTube Coins are a planned virtual feature and have no cash value in this preview.
 
 The selector includes English, Spanish, French, German and Portuguese translations. Other listed languages are selectable but currently fall back to English until translations are added.
