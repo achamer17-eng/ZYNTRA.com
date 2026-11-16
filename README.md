@@ -12,7 +12,7 @@ GitHub Pages preview: https://achamer17-eng.github.io/ZYNTRA.com/
 - Video player with selectable public sample MP4 clips.
 - Searchable and filterable game catalogue.
 - Three playable mini-games: Tic-Tac-Toe against a simple computer opponent, Memory Match and a reaction-time test.
-- Creator Studio form that saves draft text to the current browser's local storage and previews a selected file locally; it does not upload files.
+- Creator Studio form that saves draft text to the current browser's local storage and displays the selected file name; it does not upload or render the file.
 - Demo Coins, daily demo reward and cosmetic shop items stored in the current browser only.
 - Language selector with partial navigation/section translations for English, Spanish, French, German and Portuguese.
 - Keyboard focus styling, semantic sections, accessible labels and reduced-motion support.
